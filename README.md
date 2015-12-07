@@ -1,1 +1,3 @@
-#use go-fuse for oure cloudwarehub filesystem
+# gofuse
+
+##use go-fuse to build our filesystem
